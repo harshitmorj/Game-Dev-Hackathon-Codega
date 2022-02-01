@@ -7,7 +7,7 @@ Team Members:- (i)Harshit K Morj
                (ii) Akshat Kumar Gupta
                
 We have made a simplified version of the the beloved game.        
-We have imported the p5 library and most of the functions used through various sources.
+We have imported the p5 library and most of the functions used are from various sources.
 
 The game we designed has a green square block as a protagonist which jumps
 as we give command, game will be over when the green block lands on black blocks or
