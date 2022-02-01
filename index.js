@@ -345,7 +345,7 @@ function draw() {
 	}
     score+=0.01;
 
-    if (score == 15){text("YOU WIN",250,250);}
+    if (score > 15){text("YOU WIN",250,250);}
 	fill(255);
 	text("Click, up arrow or space to jump. Enter to long jump", 10, 10);
     text("Score:"+String(score|0),500,10);
