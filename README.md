@@ -15,4 +15,3 @@ collides head-on with a white block. To start the game we have click on the Gree
 button and to stop we will be clicking Red stop button. We will click on
 “spacebar” or “up arrow” button to make the green block jump. 
 Get a score of 15 to win.
-This game is inspired from a game by user @theangryepicbanana of replit.com and re engineered by us.
